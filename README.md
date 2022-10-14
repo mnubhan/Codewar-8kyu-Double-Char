@@ -6,7 +6,5 @@ Given a string, you have to return a string in which each character (case-sensit
 Examples (Input -> Output):
 <br>
 * "String"      -> "SSttrriinngg"
-<br>
 * "Hello World" -> "HHeelllloo  WWoorrlldd"
-<br>
 * "1234!_ "     -> "11223344!!__  "
